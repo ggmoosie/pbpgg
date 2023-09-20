@@ -1,6 +1,7 @@
 {
-    "GameId": "1W6_eUiNak4pDBYUmD-_9gTUKn-fDIsCr",
+    "GameId": "GameID",
     "Version": "1.0.1",
-    "LauncherId": "1GLZBnYD3qVGXpWpDVKWleT_3h3ZlBl7f",
+    "LauncherId": "LauncherId",
     "PatchNotes": "Patch notes for the current version."
+    "GameName":  "GameName
 }
