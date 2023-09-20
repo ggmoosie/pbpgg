@@ -2,6 +2,6 @@
     "GameId": "GameID",
     "Version": "1.0.1",
     "LauncherId": "LauncherId",
-    "PatchNotes": "Patch notes for the current version."
-    "GameName":  "GameName
+    "PatchNotes": "Patch notes for the current version",
+    "GameName":  "GameName."
 }
